@@ -1,12 +1,12 @@
 import { Header } from "../components/Header";
 
-const Index = () => {
+const Abdu = () => {
   return (
     <div>
       <Header />
-      <p>we on index</p>
+      <p>we on abdu</p>
     </div>
   );
 };
 
-export default Index;
+export default Abdu;

@@ -1,12 +1,12 @@
 import { Header } from "../components/Header";
 
-const Index = () => {
+const Jesi = () => {
   return (
     <div>
       <Header />
-      <p>we on index</p>
+      <p>we on jesi</p>
     </div>
   );
 };
 
-export default Index;
+export default Jesi;
