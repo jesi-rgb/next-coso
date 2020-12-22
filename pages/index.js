@@ -1,11 +1,11 @@
 import { Header } from "../components/Header";
+import { Layout } from "../components/Layout";
 
 const Index = () => {
   return (
-    <div>
-      <Header />
+    <Layout>
       <p>we on index</p>
-    </div>
+    </Layout>
   );
 };
 

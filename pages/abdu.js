@@ -1,11 +1,11 @@
 import { Header } from "../components/Header";
+import { Layout } from "../components/Layout";
 
 const Abdu = () => {
   return (
-    <div>
-      <Header />
+    <Layout>
       <p>we on abdu</p>
-    </div>
+    </Layout>
   );
 };
 
