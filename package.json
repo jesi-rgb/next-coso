@@ -1,0 +1,20 @@
+{
+  "name": "next-coso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "keywords": [],
+  "author": "Jesús Rascón",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
